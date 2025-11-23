@@ -21,8 +21,8 @@ Fritzboxen, die man nicht mehr verwenden sollte (bspw. weil Chipsatz zu alt oder
 - Fritzbox 7590 AX
 - Fritzbox 5530 Fiber
 
-### Liste 3: Gute Fritz Repeater
-Fritz Repeater mit ARM-Chipsätzen von Qualcomm
+### Liste 3: Gute Fritz-Repeater
+Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
 - Fritz Repeater 1200 AX
 - Fritz Repeater 3000 AX
 - Fritz Repeater 6000
