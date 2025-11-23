@@ -39,10 +39,9 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
   - 2,4 GHz: Qualcomm QCN5024
   - 5 GHz: Qualcomm QCN6224
   - 6 GHz: Qualcomm QCN6274
-
-Quellen:
-- https://boxmatrix.info/wiki/FRITZ!Box_5690_Pro
-- https://www.youtube.com/watch?v=bc3_5HVhpp0
+- Quellen:
+  - https://boxmatrix.info/wiki/FRITZ!Box_5690_Pro
+  - https://www.youtube.com/watch?v=bc3_5HVhpp0
 
 ### Fritzbox 7690
 - SoC/Plattform:
@@ -52,7 +51,45 @@ Quellen:
 - WiFi-Chipsatz
   - 2,4 GHz: Qualcomm QCN6214
   - 5 GHz: Qualcomm QCN6224
+- Quellen:
+  - https://boxmatrix.info/wiki/FRITZ!Box_7690
+  - https://www.youtube.com/watch?v=bc3_5HVhpp0
 
-Quellen:
-- https://boxmatrix.info/wiki/FRITZ!Box_7690
-- https://www.youtube.com/watch?v=bc3_5HVhpp0
+### Fritzbox 5590 Fiber
+- SoC/Plattform:
+  - abc
+  - abc
+- DSL-Modem: abc
+- Glasfaser-Modem: abc
+- WiFi-Chipsatz
+  - 2,4 GHz: abc
+  - 5 GHz: abc
+- Quellen:
+  - abc
+
+### Fritzbox 4690
+- SoC/Plattform:
+  - abc
+  - abc
+- DSL-Modem: abc
+- Glasfaser-Modem: abc
+- WiFi-Chipsatz
+  - 2,4 GHz: abc
+  - 5 GHz: abc
+- Quellen:
+  - abc
+
+### Fritzbox 4060
+- SoC/Plattform:
+  - abc
+  - abc
+- DSL-Modem: abc
+- Glasfaser-Modem: abc
+- WiFi-Chipsatz
+  - 2,4 GHz: abc
+  - 5 GHz: abc
+- Quellen:
+  - abc
+
+### Quellen
+- https://boxmatrix.info/wiki/CPU-Selector
