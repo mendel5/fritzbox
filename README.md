@@ -26,3 +26,18 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
 - Fritz Repeater 1200 AX
 - Fritz Repeater 3000 AX
 - Fritz Repeater 6000
+
+## Details
+
+### Fritzbox 5690 Pro
+- SoC/Plattform:
+  - ARM Cortex A73
+  - Qualcomm IPQ9574
+- WiFi-Chipsatz
+  - 2,4 GHz: Qualcomm QCN5024
+  - 5 GHz: Qualcomm QCN6224
+  - 6 GHz: Qualcomm QCN6274
+
+Quelle:
+- https://boxmatrix.info/wiki/FRITZ!Box_5690_Pro
+- https://www.youtube.com/watch?v=bc3_5HVhpp0
