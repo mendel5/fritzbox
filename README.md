@@ -16,9 +16,9 @@ Unklar:
 
 ### Liste 2: Nicht verwenden
 Fritzboxen, die man nicht mehr verwenden sollte (bspw. weil Chipsatz zu alt oder Chipsatz nicht von Qualcomm)
-- Fritzbox 7530 AX
-- Fritzbox 7590
 - Fritzbox 7590 AX
+- Fritzbox 7590
+- Fritzbox 7530 AX
 - Fritzbox 5530 Fiber
 
 ### Liste 3: Gute Fritz-Repeater
