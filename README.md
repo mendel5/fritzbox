@@ -40,6 +40,19 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
   - 5 GHz: Qualcomm QCN6224
   - 6 GHz: Qualcomm QCN6274
 
-Quelle:
+Quellen:
 - https://boxmatrix.info/wiki/FRITZ!Box_5690_Pro
+- https://www.youtube.com/watch?v=bc3_5HVhpp0
+
+### Fritzbox 7690
+- SoC/Plattform:
+  - ARM Cortex A53
+  - Qualcomm IPQ5300
+- DSL-Modem: MaxLinear VRX619
+- WiFi-Chipsatz
+  - 2,4 GHz: Qualcomm QCN6214
+  - 5 GHz: Qualcomm QCN6224
+
+Quellen:
+- https://boxmatrix.info/wiki/FRITZ!Box_7690
 - https://www.youtube.com/watch?v=bc3_5HVhpp0
