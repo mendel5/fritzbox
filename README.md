@@ -57,22 +57,21 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
 
 ### Fritzbox 5590 Fiber
 - SoC/Plattform:
+  - ARM Cortex A53
   - abc
-  - abc
-- DSL-Modem: abc
-- Glasfaser-Modem: abc
+- Glasfaser-Modem: abc (MIPS32)
 - WiFi-Chipsatz
   - 2,4 GHz: abc
   - 5 GHz: abc
 - Quellen:
   - https://boxmatrix.info/wiki/FRITZ!Box_5590_Fiber
+  - https://www.youtube.com/watch?v=XU2fbDbHPHA
 
 ### Fritzbox 4690
 - SoC/Plattform:
+  - ARM Cortex A73
   - abc
-  - abc
-- DSL-Modem: abc
-- Glasfaser-Modem: abc
+- Modem: vorhanden
 - WiFi-Chipsatz
   - 2,4 GHz: abc
   - 5 GHz: abc
@@ -81,15 +80,15 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
 
 ### Fritzbox 4060
 - SoC/Plattform:
+  - ARM Cortex A53
   - abc
-  - abc
-- DSL-Modem: abc
-- Glasfaser-Modem: abc
+- Modem: nicht vorhanden
 - WiFi-Chipsatz
   - 2,4 GHz: abc
   - 5 GHz: abc
 - Quellen:
   - https://boxmatrix.info/wiki/FRITZ!Box_4060
+  - https://www.youtube.com/watch?v=XU2fbDbHPHA
 
 ### Quellen
 - https://boxmatrix.info/wiki/CPU-Selector
