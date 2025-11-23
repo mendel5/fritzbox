@@ -110,8 +110,8 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
   - ARM Cortex A53
   - Qualcomm IPQ5018
 - WiFi-Chipsatz
-  - 2,4 GHz: Qualcomm QCN6024, Qualcomm QCN6102 (unklar)
-  - 5 GHz: Qualcomm QCN6024, Qualcomm QCN6102 (unklar)
+  - 2,4 GHz: Qualcomm QCN6024
+  - 5 GHz: Qualcomm QCN6102
 - Quellen:
   - https://boxmatrix.info/wiki/FRITZ!Repeater_3000_AX
   - https://www.youtube.com/watch?v=dYD5UQWYA1g
