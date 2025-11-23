@@ -104,6 +104,7 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
 - Quellen:
   - https://boxmatrix.info/wiki/FRITZ!Repeater_1200_AX
   - https://www.youtube.com/watch?v=dYD5UQWYA1g
+  - https://www.youtube.com/watch?v=GcCuKLYxcNY
 
 ### Fritz-Repeater 3000 AX
 - SoC/Plattform:
