@@ -70,13 +70,14 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
 ### Fritzbox 4690
 - SoC/Plattform:
   - ARM Cortex A73
-  - abc
+  - Qualcomm IPQ9574
 - Modem: vorhanden
 - WiFi-Chipsatz
-  - 2,4 GHz: abc
-  - 5 GHz: abc
+  - 2,4 GHz: Qualcomm QCN5024
+  - 5 GHz: Qualcomm QCN6224
 - Quellen:
   - https://boxmatrix.info/wiki/FRITZ!Box_4690
+  - https://www.youtube.com/watch?v=H97Rjvdtlo0
 
 ### Fritzbox 4060
 - SoC/Plattform:
