@@ -33,6 +33,8 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
 - SoC/Plattform:
   - ARM Cortex A73
   - Qualcomm IPQ9574
+- DSL-Modem: MaxLinear VRX619
+- Glasfaser-Modem: Realtek RTL9601D (MIPS32)
 - WiFi-Chipsatz
   - 2,4 GHz: Qualcomm QCN5024
   - 5 GHz: Qualcomm QCN6224
