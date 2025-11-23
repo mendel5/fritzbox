@@ -96,33 +96,36 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
 
 ### Fritz-Repeater 1200 AX
 - SoC/Plattform:
-  - abc
+  - ARM Cortex A53
   - abc
 - WiFi-Chipsatz
   - 2,4 GHz: abc
   - 5 GHz: abc
 - Quellen:
-  - abc
+  - https://boxmatrix.info/wiki/FRITZ!Repeater_1200_AX
+  - https://www.youtube.com/watch?v=dYD5UQWYA1g
 
 ### Fritz-Repeater 3000 AX
 - SoC/Plattform:
-  - abc
+  - ARM Cortex A53
   - abc
 - WiFi-Chipsatz
   - 2,4 GHz: abc
   - 5 GHz: abc
 - Quellen:
-  - abc
+  - https://boxmatrix.info/wiki/FRITZ!Repeater_3000_AX
+  - https://www.youtube.com/watch?v=dYD5UQWYA1g
 
 ### Fritz-Repeater 6000
 - SoC/Plattform:
-  - abc
+  - ARM Cortex A53
   - abc
 - WiFi-Chipsatz
   - 2,4 GHz: abc
   - 5 GHz: abc
 - Quellen:
-  - abc
+  - https://boxmatrix.info/wiki/FRITZ!Repeater_6000
+  - https://www.youtube.com/watch?v=dYD5UQWYA1g
 
 ## Quellen
 - https://boxmatrix.info/wiki/CPU-Selector
