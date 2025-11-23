@@ -27,7 +27,7 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
 - Fritz Repeater 3000 AX
 - Fritz Repeater 6000
 
-## Details
+## Details: Fritzbox
 
 ### Fritzbox 5690 Pro
 - SoC/Plattform:
@@ -91,5 +91,13 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
   - https://boxmatrix.info/wiki/FRITZ!Box_4060
   - https://www.youtube.com/watch?v=XU2fbDbHPHA
 
-### Quellen
+## Details: Fritz-Repeater
+
+### Fritz-Repeater 1200 AX
+
+### Fritz-Repeater 3000 AX
+
+### Fritz-Repeater 6000
+
+## Quellen
 - https://boxmatrix.info/wiki/CPU-Selector
