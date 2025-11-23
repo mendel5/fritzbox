@@ -95,10 +95,34 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
 ## Details: Fritz-Repeater
 
 ### Fritz-Repeater 1200 AX
+- SoC/Plattform:
+  - abc
+  - abc
+- WiFi-Chipsatz
+  - 2,4 GHz: abc
+  - 5 GHz: abc
+- Quellen:
+  - abc
 
 ### Fritz-Repeater 3000 AX
+- SoC/Plattform:
+  - abc
+  - abc
+- WiFi-Chipsatz
+  - 2,4 GHz: abc
+  - 5 GHz: abc
+- Quellen:
+  - abc
 
 ### Fritz-Repeater 6000
+- SoC/Plattform:
+  - abc
+  - abc
+- WiFi-Chipsatz
+  - 2,4 GHz: abc
+  - 5 GHz: abc
+- Quellen:
+  - abc
 
 ## Quellen
 - https://boxmatrix.info/wiki/CPU-Selector
