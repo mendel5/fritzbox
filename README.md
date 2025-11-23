@@ -65,7 +65,7 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
   - 2,4 GHz: abc
   - 5 GHz: abc
 - Quellen:
-  - abc
+  - https://boxmatrix.info/wiki/FRITZ!Box_5590_Fiber
 
 ### Fritzbox 4690
 - SoC/Plattform:
@@ -77,7 +77,7 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
   - 2,4 GHz: abc
   - 5 GHz: abc
 - Quellen:
-  - abc
+  - https://boxmatrix.info/wiki/FRITZ!Box_4690
 
 ### Fritzbox 4060
 - SoC/Plattform:
@@ -89,7 +89,7 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
   - 2,4 GHz: abc
   - 5 GHz: abc
 - Quellen:
-  - abc
+  - https://boxmatrix.info/wiki/FRITZ!Box_4060
 
 ### Quellen
 - https://boxmatrix.info/wiki/CPU-Selector
