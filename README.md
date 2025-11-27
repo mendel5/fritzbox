@@ -100,7 +100,7 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
   - Qualcomm IPQ5010
 - WiFi-Chipsatz
   - 2,4 GHz: Qualcomm IPQ5010
-  - 5 GHz: unklar
+  - 5 GHz: unklar, aber mit sehr hoher Wahrscheinlichkeit von Qualcomm
 - Quellen:
   - https://boxmatrix.info/wiki/FRITZ!Repeater_1200_AX
   - https://www.youtube.com/watch?v=dYD5UQWYA1g
