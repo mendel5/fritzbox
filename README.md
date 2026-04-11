@@ -5,7 +5,7 @@ Information about AVM Fritz Fritzbox FRITZ!Box
 
 ### Liste 1: Gute Fritzboxen
 Fritzboxen mit ARM-Chipsätzen von Qualcomm
-- Fritzbox 5690 Pro
+- Fritzbox 5690 Pro --> ja
 - Fritzbox 5590 Fiber
 - Fritzbox 7690
 - Fritzbox 4690
@@ -21,10 +21,10 @@ Fritzboxen, die man nicht mehr verwenden sollte (bspw. weil Chipsatz zu alt oder
 - Fritzbox 7530 AX
 - Fritzbox 5530 Fiber
 
-### Liste 3: Gute Fritz-Repeater
-Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
+### Liste 3: Gute Fritz Repeater
+Fritz Repeater mit ARM-Chipsätzen von Qualcomm
 - Fritz Repeater 1200 AX
-- Fritz Repeater 3000 AX
+- Fritz Repeater 3000 AX --> ja (siehe Abschnitt weiter unten)
 - Fritz Repeater 6000
 
 ## Details: Fritzbox
@@ -92,9 +92,9 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
   - https://boxmatrix.info/wiki/FRITZ!Box_4060
   - https://www.youtube.com/watch?v=XU2fbDbHPHA
 
-## Details: Fritz-Repeater
+## Details: Fritz Repeater
 
-### Fritz-Repeater 1200 AX
+### Fritz Repeater 1200 AX
 - SoC/Plattform:
   - ARM Cortex A53
   - Qualcomm IPQ5010
@@ -106,7 +106,7 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
   - https://www.youtube.com/watch?v=dYD5UQWYA1g
   - https://www.youtube.com/watch?v=GcCuKLYxcNY
 
-### Fritz-Repeater 3000 AX
+### Fritz Repeater 3000 AX
 - SoC/Plattform:
   - ARM Cortex A53
   - Qualcomm IPQ5018
@@ -117,8 +117,10 @@ Fritz-Repeater mit ARM-Chipsätzen von Qualcomm
   - https://boxmatrix.info/wiki/FRITZ!Repeater_3000_AX
   - https://www.youtube.com/watch?v=dYD5UQWYA1g
   - https://www.youtube.com/watch?v=BERbfe1Jgxo
+- Sonstiges:
+  - Der Repeater 3000 AX (3000AX) ist besser als der Repeater 6000. Siehe: https://old.reddit.com/r/fritzbox/comments/1i8caps/welcher_repeater_f%C3%BCr_eine_fritzbox_7690/
 
-### Fritz-Repeater 6000
+### Fritz Repeater 6000
 - SoC/Plattform:
   - ARM Cortex A53
   - Qualcomm IPQ8074A
